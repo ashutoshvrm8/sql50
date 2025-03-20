@@ -1,2 +1,1 @@
-# sql50
-skibidi
+https://leetcode.com/studyplan/top-sql-50/
